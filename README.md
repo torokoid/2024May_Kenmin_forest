@@ -74,24 +74,37 @@ body::before {
 <a href="20240519_000.png" data-lightbox="abc"><img src="20240519_000.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">中腹の駐車場はガラガラですが、なんとアマチュア無線の移動運用中でした！</span></h3>
 <a href="20240519_001.JPG" data-lightbox="abc"><img src="20240519_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240519_002.JPG" data-lightbox="abc"><img src="20240519_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240519_003.JPG" data-lightbox="abc"><img src="20240519_003.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">空中線(アンテナ)はバランが片側に寄った、ダイポールを半分にしたようなシステム！</span></h3>
+<a href="20240519_008.JPG" data-lightbox="abc"><img src="20240519_008.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">リア席に設置されたシャックの写真も撮らせていただきました。！</span></h3>
+<a href="20240519_009.JPG" data-lightbox="abc"><img src="20240519_009.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">今回もこのバイクです！</span></h3>
+<a href="20240519_002.JPG" data-lightbox="abc"><img src="20240519_002.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">男体山は真西に見えました！</span></h3>
 <a href="20240519_004.JPG" data-lightbox="abc"><img src="20240519_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240519_005.JPG" data-lightbox="abc"><img src="20240519_005.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">見晴台から宇都宮のノードに繋ぎましたが、誰もいません！</span></h3>
 <a href="20240519_006.JPG" data-lightbox="abc"><img src="20240519_006.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">小鳥たちの囀りが響き渡ります！</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2onEghiqkjQ?si=qQQ4BpgUveAW5D18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h3><span class="white">ここに来るのはこんなタイプが多いようです！</span></h3>
 <a href="20240519_007.JPG" data-lightbox="abc"><img src="20240519_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240519_008.JPG" data-lightbox="abc"><img src="20240519_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240519_009.JPG" data-lightbox="abc"><img src="20240519_009.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">ちょっと下って森林展示館にお邪魔します。</span></h3>
 <a href="20240519_010.JPG" data-lightbox="abc"><img src="20240519_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240519_011.JPG" data-lightbox="abc"><img src="20240519_011.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">入口には環境にやさしいEVが置かれていました！</span></h3>
 <a href="20240519_012.JPG" data-lightbox="abc"><img src="20240519_012.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">野生の森を感じさせるパンフですね！</span></h3>
 <a href="20240519_013.JPG" data-lightbox="abc"><img src="20240519_013.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">展示物はかなり充実しています！</span></h3>
 <a href="20240519_014.JPG" data-lightbox="abc"><img src="20240519_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240519_015.JPG" data-lightbox="abc"><img src="20240519_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240519_016.JPG" data-lightbox="abc"><img src="20240519_016.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">U字工事がPRに一役買ってました！</span></h3>
 <a href="20240519_017.JPG" data-lightbox="abc"><img src="20240519_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240519_018.JPG" data-lightbox="abc"><img src="20240519_018.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">エンジン掛けて、下ります！</span></h3>
+
 
 	
 <br><br><br><br><br><br><br><br><br>
