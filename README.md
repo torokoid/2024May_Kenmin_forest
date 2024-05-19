@@ -66,7 +66,7 @@ body::before {
 <p align="left"> <img src="kenmin.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
-<h1><span class="yellow"><marquee behavior="left">!!! 2024年5月18日(日)朝からバイクで県民の森 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024年5月19日(日)朝からバイクで県民の森 !!!</marquee></span></h1>
 
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -132,5 +132,5 @@ body::before {
 
 <!-- フッタ -->
  <footer><span class="white">
- Copyright 2024/05/18 S.Hada
+ Copyright 2024/05/19 S.Hada
 	 </span></footer>
