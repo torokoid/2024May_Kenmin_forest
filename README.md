@@ -75,7 +75,7 @@ body::before {
 <h3><span class="white">中腹の駐車場はガラガラですが、なんとアマチュア無線の移動運用中でした！</span></h3>
 <a href="20240519_001.JPG" data-lightbox="abc"><img src="20240519_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240519_003.JPG" data-lightbox="abc"><img src="20240519_003.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">空中線(アンテナ)はバランが片側に寄った、ダイポールを半分にしたようなシステム！</span></h3>
+<h3><span class="white">空中線(アンテナ)はバランが片側に寄った、ダイポールを半分にしたようなシステム！<br>7MHzがめいんで、14,21,28は運用できるとのことでした。</span></h3>
 <a href="20240519_008.JPG" data-lightbox="abc"><img src="20240519_008.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">リア席に設置されたシャックの写真も撮らせていただきました。！</span></h3>
 <a href="20240519_009.JPG" data-lightbox="abc"><img src="20240519_009.JPG" alt="サンプル画像" width="900" /></a>
