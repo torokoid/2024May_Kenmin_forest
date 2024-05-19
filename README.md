@@ -71,7 +71,7 @@ body::before {
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="white">いつもの羽黒山からさらに北上、県民の森まで行きました！</span></h3>
-<a href="20240519_000.JPG" data-lightbox="abc"><img src="20240519_000.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240519_000.png" data-lightbox="abc"><img src="20240519_000.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">中腹の駐車場はガラガラですが、なんとアマチュア無線の移動運用中でした！</span></h3>
 <a href="20240519_001.JPG" data-lightbox="abc"><img src="20240519_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240519_002.JPG" data-lightbox="abc"><img src="20240519_002.JPG" alt="サンプル画像" width="900" /></a>
